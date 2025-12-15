@@ -1,0 +1,8 @@
+StudentID,Location,Gender,DOB,SocioEconomicStatus,Public_Private_Charter
+10001,Seattle,F,01-05-1999,Low,Public
+10002,Tampa,M,15-09-1998,High,Charter
+10003,Seattle,F,25-02-2000,Average,Public
+10004,Miami,F,10-11-1999,Low,Private
+10005,Tampa,M,03-09-1998,Average,Public
+10006,Miami,M,12-04-2000,High,Charter
+10007,Seattle,F,20-09-1998,Average,Private

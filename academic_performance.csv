@@ -1,0 +1,8 @@
+StudentID,GradeLevel,GPA,DropoutStatus,AttendanceRate,DisciplineIncidents,ExtraCurAct
+10001,12,3.8,Not Dropped,0.95,0,Football
+10002,11,2.1,Not Dropped,0.75,3,None
+10003,12,3.9,Not Dropped,0.88,1,Debate
+10004,10,1.5,Dropped,0.60,5,None
+10005,11,2.5,Not Dropped,0.81,1,None
+10006,12,3.5,Not Dropped,0.92,0,None
+10007,10,4.0,Not Dropped,0.99,0,Chess

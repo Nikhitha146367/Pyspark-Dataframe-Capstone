@@ -1,0 +1,11 @@
+StudentID,InternshipDone,InternshipRole,InternshipCompany,InternshipLocation,ExpectedStatus
+10001,Yes,Data Analyst,TechCorp,Seattle,High Potential
+10002,No,None,None,None,At Risk
+10003,Yes,Project Manager,FinConnect,Seattle,Average
+10004,No,None,None,None,At Risk
+10005,Yes,Marketing Intern,RetailGiant,Tampa,Average
+10006,Yes,Software Engineer,TechCorp,Miami,High Potential
+10007,No,None,None,None,Average
+10008,Yes,HR Intern,FinConnect,Tampa,Average
+10009,No,None,None,None,At Risk
+10010,Yes,Data Analyst,TechCorp,Seattle,High Potential
